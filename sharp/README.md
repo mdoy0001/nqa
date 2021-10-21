@@ -2,6 +2,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/lovell/sharp@master/docs/image/sharp-logo.svg" width="160" height="160" alt="sharp logo" align="right">
 
+This is a modified version of sharp. Please check operations.cc to see what was added.
+
 The typical use case for this high speed Node.js module
 is to convert large images in common formats to
 smaller, web-friendly JPEG, PNG, WebP and AVIF images of varying dimensions.

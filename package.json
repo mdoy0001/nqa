@@ -1,8 +1,8 @@
 {
-  "name": "manager",
-  "productName": "manager",
+  "name": "nqa",
+  "productName": "nqa",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "A photo management tool",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
